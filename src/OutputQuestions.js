@@ -37,9 +37,15 @@ console.log(str);
 //Qustion 4:---------------------------------------------------------
 // ANSWER:
 let obj2 = {};
+let profile = {
+  name: "Michal"
+}
+let profile2 = {
+  name: "Michal"
+}
 console.log({} == {});
 console.log(obj2 == {});
-console.log(NaN === NaN);
+console.log(profile === profile2);
 console.log(null == undefined);
 
 //Qustion 5:---------------------------------------------------------

@@ -12,8 +12,15 @@ p {
 .form-label span {
   width: 250px;
 }
-.h3{
+.hooks{
   font-weight: bold;
-  margin-right: 15px;
-  font-size: 25px;
+  margin-right: 25px;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+code{
+  color : red
+}
+fieldset{
+  margin-bottom: 8px;
 }
